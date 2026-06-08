@@ -1,0 +1,2 @@
+=== Reporte General ===
+Este archivo puede incluir estadisticas de productos y ventas.
